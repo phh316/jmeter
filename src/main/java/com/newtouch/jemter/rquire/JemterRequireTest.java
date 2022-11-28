@@ -9,9 +9,9 @@ import org.apache.log4j.Logger;
 /**
  * Created by 86183 on 2021/3/26.
  */
-public class JemterTest123 implements JavaSamplerClient {
+public class JemterRequireTest implements JavaSamplerClient {
 
-    private static final Logger logger = Logger.getLogger(JemterTest123.class);
+    private static final Logger logger = Logger.getLogger(JemterRequireTest.class);
     private String url1 = "url1";
 
 
